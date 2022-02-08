@@ -11,7 +11,7 @@ Focusing on **Swift** lately, but capable of working in **full-stack-mode**, wri
 <br clear="all"/>
 <br>
 
-Skills[^icons]
+Tech stack[^icons]
 [^icons]: icons courtesy of [icons8.com](https://icons8.com/)
 - **Mobile**[^mobile-projects] on <img src="icons/icons8-swift.svg" width="16" style> Swift with UIKit or SwiftUI
 - **Web**[^web-projects] on <img src="icons/icons8-typescript.svg" width="16"> TypeScript with React and Nextjs
@@ -30,7 +30,7 @@ Skills[^icons]
 
 <br>
 
-Additional
+Skills
 - **Critical thinking and problem solving**: if you have a problem I will provide a working solution
 - **Can manage full cycle of software development**: have prior experience as team leader of team 20+ ppl
 - **Businisses analysis**: have prior experience as product manager and data analyst
