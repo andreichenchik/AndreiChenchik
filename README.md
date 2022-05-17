@@ -41,7 +41,7 @@ Fun facts
 - Run 2021km in 2021, [follow me on <img src="icons/strava.svg" width="15"> Strava](https://www.strava.com/athletes/44250763)!
 - Love to travel and do long bike rides
 - Born in imaginary land: [<img src="icons/transnistria.svg" width="16" style> Transnistria](https://en.wikipedia.org/wiki/Transnistria)
-- My PGP fingerprint is [A8A7 8277 BD9F 6034 88E6  124A 542A 6E06 2061 C7A9](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/andrei.asc) 
+- My PGP fingerprint is [16F2 94C8 5A67 F0D5 1E54 8ACB A688 B7C1 16CA 5B13](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/andrei.asc) 
 
 <br>
 
