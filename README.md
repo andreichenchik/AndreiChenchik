@@ -11,22 +11,11 @@ Focusing on **Swift** lately, but capable of working in **full-stack-mode**, wri
 <br clear="all"/>
 <br>
 
-Tech stack[^icons]
-[^icons]: icons courtesy of [icons8.com](https://icons8.com/)
-- **Mobile**[^mobile-projects] on <img src="icons/icons8-swift.svg" width="16" style> Swift with UIKit or SwiftUI
-- **Web**[^web-projects] on <img src="icons/icons8-typescript.svg" width="16"> TypeScript with React and Nextjs
-- **Backend**[^backend-projects] on <img src="icons/icons8-python.svg" width="16"> Python with FastAPI, Strawberry GraphQL, Postgres and Reddis
-- **DevOps**[^devops-projects] on <img src="icons/icons8-kubernetes.svg" width="16"> Kubernetes with Pulumi, ArgoCD and GitHub Actions
-
-[^mobile-projects]: swift - 
-  [Receipts Tracker](https://apps.apple.com/es/app/simply-receipts-tracker/id1586132989?l=en): source code available per request
-[^web-projects]: javascript -
-  [enableOps website components](https://github.com/enableops/enableops.github.io/tree/main/src/components)
-[^backend-projects]: python -
-  [enableOps api](https://api.enableops.io/docs): source code available per request
-[^devops-projects]: devops -
-  [local GitOps IaaC: pulumi and argocd on kubernetes](https://github.com/AndreiChenchik/local-cluster)
-
+What I do
+- **Mobile** on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-swift.svg" width="16" style> Swift with UIKit or SwiftUI: [Receipts Tracker](https://apps.apple.com/es/app/simply-receipts-tracker/id1586132989?l=en), source
+- **Web** on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-typescript.svg" width="16"> TypeScript with React and Nextjs: [enableOps website](https://enableops.io), [*source*](https://github.com/enableops/enableops.github.io/tree/main/src/components)
+- **Backend** on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-python.svg" width="16"> Python with FastAPI, Strawberry GraphQL, Postgres and Reddis: [enableOps api](), [*source*](https://github.com/enableops/api-service)
+- **DevOps** on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-kubernetes.svg" width="16"> Kubernetes with Pulumi, ArgoCD and GitHub Actions: [local GitOps & IaaC, source](https://github.com/AndreiChenchik/local-cluster)
 
 <br>
 
@@ -38,10 +27,11 @@ Skills
 <br>
 
 Fun facts
-- Run 2021km in 2021, [follow me on <img src="icons/strava.svg" width="15"> Strava](https://www.strava.com/athletes/44250763)!
+* The one who do walk the walk: [did <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/james-shell.svg" width="16"> Camino de Santiago in 2022 starting from Leon ~400km](https://storyteller.fit/album/384)
+- Run 2021km in 2021, [follow me on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/strava.svg" width="15"> Strava](https://www.strava.com/athletes/44250763)!
 - Love to travel and do long bike rides
-- Born in imaginary land: [<img src="icons/transnistria.svg" width="16" style> Transnistria](https://en.wikipedia.org/wiki/Transnistria)
-- My PGP fingerprint is [16F2 94C8 5A67 F0D5 1E54 8ACB A688 B7C1 16CA 5B13](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/andrei.asc) 
+- Born in imaginary land: [<img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/transnistria.svg" width="16" style> Transnistria](https://en.wikipedia.org/wiki/Transnistria)
+- My <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-key.svg" width="16"> PGP fingerprint is [16F2 94C8 5A67 F0D5 1E54 8ACB A688 B7C1 16CA 5B13](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/andrei.asc) 
 
 <br>
 
