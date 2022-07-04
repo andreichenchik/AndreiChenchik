@@ -29,7 +29,7 @@ Skills
 Fun facts
 - The one who walk the walk: [did <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/james-shell.svg" width="16"> Camino de Santiago in 2022 starting from Leon ~400km](https://storyteller.fit/album/384)
 - Run 2021km in 2021, [follow me on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/strava.svg" width="15"> Strava](https://www.strava.com/athletes/44250763)!
-- Love to travel and do long bike rides
+- Love to travel and do [<img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/bike.svg" width="16" style> long bike rides](https://www.strava.com/activities/4836441053)
 - Born in imaginary land: [<img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/transnistria.svg" width="16" style> Transnistria](https://en.wikipedia.org/wiki/Transnistria)
 - My <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-key.svg" width="16"> PGP fingerprint is [16F2 94C8 5A67 F0D5 1E54 8ACB A688 B7C1 16CA 5B13](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/andrei.asc) 
 
