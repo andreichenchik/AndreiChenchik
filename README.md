@@ -27,7 +27,7 @@ Skills
 <br>
 
 Fun facts
-- The one who walk the walk: [did <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/james-shell.svg" width="16"> Camino de Santiago in 2022 starting from Leon ~400km](https://storyteller.fit/album/384)
+- The one who walk the walk: [did 400km of <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/james-shell.svg" width="16"> Camino de Santiago in 2022, starting from Leon](https://storyteller.fit/album/384)
 - Run 2021km in 2021, [follow me on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/strava.svg" width="15"> Strava](https://www.strava.com/athletes/44250763)!
 - Love to travel and do [<img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/bike.svg" width="16" style> long bike rides](https://www.strava.com/activities/4836441053)
 - Born in imaginary land: [<img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/transnistria.svg" width="16" style> Transnistria](https://en.wikipedia.org/wiki/Transnistria)
@@ -35,6 +35,6 @@ Fun facts
 
 <br>
 
-Sometimes I write to [blog](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/achenchik/) to talk about jobs. 
+Sometimes I write [blog](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/achenchik/) to talk about jobs. 
 
 
