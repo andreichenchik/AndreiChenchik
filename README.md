@@ -9,7 +9,7 @@ Main projects: Receipts Tracker and enableOps.
 Focusing on **Swift** lately, but capable of working in **full-stack-mode**, writing my code from Barcelona. Check my pinned repositories.
 
 <br clear="all"/>
-Looking for my CV? [Download PDF](https://github.com/AndreiChenchik/AndreiChenchik/releases/latest/download/AndreiChenchik-CV.pdf) or [HTML](https://github.com/AndreiChenchik/AndreiChenchik/releases/latest/download/AndreiChenchik-CV.html).
+
 <br>
 
 What I do
@@ -37,5 +37,7 @@ Fun facts
 <br>
 
 Sometimes I write [blog](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/achenchik/) to talk about jobs. 
+
+Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/releases/latest/download/AndreiChenchik-CV.pdf) or [**HTML**](https://github.com/AndreiChenchik/AndreiChenchik/releases/latest/download/AndreiChenchik-CV.html)!
 
 
