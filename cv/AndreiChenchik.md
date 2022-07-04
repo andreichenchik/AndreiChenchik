@@ -4,7 +4,7 @@ Solving hard challenges with real solutions.
 
 Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
-<br clear="all"/><hr/>
+---
 
 What I do
 - **Mobile** on Swift with UIKit or SwiftUI: [Simply Receipts](https://chenchik.me/simply-receipts.html), source
@@ -17,3 +17,9 @@ Skills
 - **Critical thinking and problem solving**: if you have a problem I will provide a working solution
 - **Can manage full cycle of software development**: have prior experience as team leader of team 20+ ppl
 - **Businisses analysis**: have prior experience as product manager and data analyst
+
+---
+
+
+
+*FUN FACTS: Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria).*
