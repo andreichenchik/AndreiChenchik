@@ -13,7 +13,7 @@ Focusing on **Swift** lately, and capable of working in full-stack-mode, writing
 <br>
 
 What I do
-- **Mobile** on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-swift.svg" width="16" style> Swift with UIKit or SwiftUI: [Simply Receipts](https://apps.apple.com/es/app/simply-receipts-tracker/id1586132989?l=en), source
+- **Mobile** on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-swift.svg" width="16" style> Swift with UIKit or SwiftUI: [Simply Receipts](https://chenchik.me/simply-receipts.html), source
 - **Web** on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-typescript.svg" width="16"> TypeScript with React and Nextjs: [enableOps website](https://enableops.io), [*source*](https://github.com/enableops/enableops.github.io/tree/main/src/components)
 - **Backend** on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-python.svg" width="16"> Python with FastAPI, Strawberry GraphQL, Postgres and Reddis: [enableOps api](), [*source*](https://github.com/enableops/api-service)
 - **DevOps** on <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-kubernetes.svg" width="16"> Kubernetes with Pulumi, ArgoCD and GitHub Actions: [local GitOps & IaaC, source](https://github.com/AndreiChenchik/local-cluster)
