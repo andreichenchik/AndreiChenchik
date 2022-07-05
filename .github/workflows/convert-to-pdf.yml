@@ -4,7 +4,7 @@ on:
     branches:
       - main
     paths:
-      - "cv/cv.md"
+      - "cv/**.md"
       - "cv/images/**"
   release:
     types: [published]
