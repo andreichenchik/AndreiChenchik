@@ -1,5 +1,5 @@
 ## Andrei Chenchik, iOS Software Engineer
-<img align="left" width=100 src="./images/andrei.png" style="margin: 0 10px 0 0" >
+<img align="left" width=100 src="./images/andrei.png" style="margin: 0 18px 0 0" >
 
 Solving hard challenges with real solutions.  Solving hard challenges with real solutions. Solving hard challenges with real solutions.  Solving hard challenges with real solutions.  
 
