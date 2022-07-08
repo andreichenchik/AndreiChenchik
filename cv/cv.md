@@ -22,8 +22,8 @@ I build this project from the scratch in attempt to solve bill keeping problem t
 
 ##### **Experience and achievements**
 * `Apr 2021 - Present` iOS Software Engineer at [Simply Receipts](https://chenchik.me/simply-receipts): I've built the whole product from scratch and launched it to the AppStore.
-* `Jan 2021 - Present` Backend developer at [enableOps](https://enableops.io/): Besides being a co-founder I build the `React` frontend and `API` with `PostgreSQL` to let customers auth using Google `OAuth` interface and setup a Kubernetes cluster.
-* `Mar 2020 - Apr 2021` Product Manager at [TruBe](https://ya.ru): Besides growing a mobile app as manager I've built `analytics system` with multiple dashboards using `Python` and `SQL`, which was used to bring more value to customers.
+* `Jan 2021 - Present` Fullstack developer at [enableOps](https://enableops.io/): I've built the `React` frontend and `API` with `PostgreSQL` to let customers auth using Google `OAuth` interface and setup a Kubernetes cluster.
+* `Mar 2020 - Apr 2021` Product Manager at [TruBe](https://ya.ru): Besides growing a mobile app I've built `analytics system` with multiple dashboards using `Python` and `SQL` to better understand customers.
 * `Feb 2019 - Mar 2020` Technical Product Manager at [ABBYY](https://www.abbyy.com/): Besides driving development of complex ml-powered `Mobile SDK` I've written several `iOS` and `Android` apps and recorded webinars to demonstrate abilities of our SDK.
 * `Apr 2014 - Oct 2018` Product Lead at [Oktos](https://appadvice.com/app/oktos-messenger/1362473814): Besides leading crossplatform team of `mobile app` developers I've implemented `CI/CD` system to increase team throughput and introduced `fastlane` toolset to fix ios app-signing pains.
 
