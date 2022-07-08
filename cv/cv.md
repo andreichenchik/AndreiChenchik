@@ -18,14 +18,14 @@ Looking for a starting position as iOS developer to help build and ship great ap
 
 ##### **Latest project: Simply Receipts ([AppStore](https://apps.apple.com/app/simply-receipts-tracker/id1586132989), [GitHub](https://github.com/AndreiChenchik/receipt), [Blog](https://chenchik.me/simply-receipts))**
 
-Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge. Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
 ##### **Experience and achievements**
-* `Apr 2021 - Present` Co-Founder and Backend developer at enableOps: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
-* `Jan 2021 - Present` Co-Founder and Backend developer at enableOps: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
-* `Mar 2020 - Apr 2021` Product Manager at TruBe: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* `Apr 2021 - Present ` *Co-Founder and Backend developer at enableOps*: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* `Jan 2021 - Present ` **Co-Founder and Backend developer at enableOps**: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* `Mar 2020 - Apr 2021` Product Manager at [TruBe](https://ya.ru): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * `Feb 2019 - Mar 2020` Product Manager at ABBYY: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * `Apr 2014 - Oct 2018` Product Manager at Oktos.io: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * `Jul 2008 - Mar 2014` Lead Frontend Developer at Acronis: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
-*__FUN FACTS__: Have a [blog](https://chenchik.me). Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter [@AndreiChenchik](https://twitter.com/AndreiChenchik).*
+*__FUN FACTS__: I write [blog](https://chenchik.me). Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter [@AndreiChenchik](https://twitter.com/AndreiChenchik).*
