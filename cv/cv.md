@@ -5,8 +5,11 @@ Solving hard challenges with real solutions.
 
 Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
+<br clear="all">
 
-Contact me: [andrei@chenchik.me](mailto:andrei@chenchik.me), [@AndreiChenchik](https://twitter.com/AndreiChenchik), [GitHub](https://github.com/AndreiChenchik), [LinkedIn](https://www.linkedin.com/in/achenchik), [+34 635 317 389](tel:+34635317389)
+**Contacts**: [andrei@chenchik.me](mailto:andrei@chenchik.me), [@AndreiChenchik](https://twitter.com/AndreiChenchik), [GitHub](https://github.com/AndreiChenchik), [LinkedIn](https://www.linkedin.com/in/achenchik), [+34 635 317 389](tel:+34635317389)
+<br> **Visa**: Spain residency and work permit
+<br> **Languages**: English B2, Spanish A1 (como un niño de tres años)
 
 ---
 
