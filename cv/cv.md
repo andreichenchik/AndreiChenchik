@@ -22,4 +22,4 @@ Looking for a starting position as iOS developer to help build and ship great ap
 
 ---
 
-*__FUN FACTS__: Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter [@AndreiChenchik](https://twitter.com/AndreiChenchik).*
+*__FUN FACTS__: Have a [blog](https://chenchik.me). Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter [@AndreiChenchik](https://twitter.com/AndreiChenchik).*
