@@ -1,7 +1,7 @@
 ## Andrei Chenchik, iOS Software Engineer
 <img align="left" width=88 src="./images/andrei.png" style="margin: 0 15px 0 0" >
 
-I believe that the only way to trully overcome a challenge is to build a deep understanding of the systems around it and then build your solution on top of that. That is why in my work I'm practicing holistic approach, system thinking and constantly grow my knowledge in multiple disciplines like Mobile, Backend, DevOps, etc 🚀
+I believe that the only way to trully overcome a challenge is to build a deep understanding of the systems around it and then build your solution on top of that. That is why in my work I'm practicing holistic approach, system thinking and constantly grow my knowledge in multiple disciplines like Mobile, Backend, DevOps, etc.
 
 I'm always looking forward to work and learn from dynamic teams, tackle hard challenges with lots of data, complex and snappy UIs to deliver business value to customers.
 
@@ -27,5 +27,5 @@ I build this project from the scratch in attempt to solve bill keeping problem t
 * `Feb 2019 - Mar 2020` Technical Product Manager at [ABBYY](https://www.abbyy.com/): Besides driving development of complex ml-powered `Mobile SDK` I've written several `iOS` and `Android` apps and recorded webinars to demonstrate abilities of our SDK.
 * `Apr 2014 - Oct 2018` Product Lead at [Oktos](https://appadvice.com/app/oktos-messenger/1362473814): Besides leading crossplatform team of `mobile app` developers I've implemented `CI/CD` system to increase team throughput and introduced `fastlane` toolset to fix ios app-signing pains.
 
-*__FUN FACTS__: I write [blog](https://chenchik.me). Did 400km of Camino de Santiago ⛰ in [2022](https://storyteller.fit/album/384). Speak Russian. Run 🏃‍♂️ 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter ✨ [@AndreiChenchik](https://twitter.com/AndreiChenchik).*
+*__FUN FACTS__: I write [blog](https://chenchik.me). Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter [@AndreiChenchik](https://twitter.com/AndreiChenchik).*
 
