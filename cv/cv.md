@@ -1,5 +1,5 @@
 ## Andrei Chenchik, iOS Software Engineer
-<img align="left" width=100 src="./images/andrei.png" style="margin: 0 18px 0 0" >
+<img align="left" width=100 src="./images/andrei.png" style="margin: 0 15px 0 0" >
 
 Solving hard challenges with real solutions.  Solving hard challenges with real solutions. Solving hard challenges with real solutions.  Solving hard challenges with real solutions.  
 
@@ -27,7 +27,5 @@ Looking for a starting position as iOS developer to help build and ship great ap
 * `Feb 2019 - Mar 2020` Product Manager at ABBYY: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * `Apr 2014 - Oct 2018` Product Manager at Oktos.io: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * `Jul 2008 - Mar 2014` Lead Frontend Developer at Acronis: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
-
----
 
 *__FUN FACTS__: Have a [blog](https://chenchik.me). Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter [@AndreiChenchik](https://twitter.com/AndreiChenchik).*
