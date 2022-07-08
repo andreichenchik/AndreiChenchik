@@ -18,7 +18,7 @@ I'm always looking forward to work with dynamic teams to tackle hard challenges 
 
 ##### **Latest project: Simply Receipts ([AppStore](https://apps.apple.com/app/simply-receipts-tracker/id1586132989), [GitHub](https://github.com/AndreiChenchik/receipt), [Blog](https://chenchik.me/simply-receipts))**
 
-Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge. Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+I build this project from the scratch in attempt to solve bill keeping problem that I have. It's 100% built using `SwiftUI`, using `CoreData` for data persistence with `CloudKit` for crossdevice synchronization. One of the most interesting challenge was to use `concurrency` for scanning in background while still be able to save data with `CoreData`. And I have to comeup with `algorithm` to parse block of texts into list of cart items.
 
 ##### **Experience and achievements**
 * `Apr 2021 - Present` Co-Founder and Backend developer at [enableOps](https://enableops.io/): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
