@@ -22,8 +22,8 @@ Looking for a starting position as iOS developer to help build and ship great ap
 Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
 #### **Past experience:**
-* Co-Founder and Backend developer at enableOps: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
-* Product Manager at TruBe: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* Co-Founder and Backend developer at enableOps: `Jan 2021 - Present` <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* **Product Manager at TruBe**, `Jan 2021 - Present`: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * Product Manager at ABBYY: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * Product Manager at Oktos.io: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * Lead Frontend Developer at Acronis: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
