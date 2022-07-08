@@ -1,5 +1,5 @@
 ## Andrei Chenchik, iOS Software Engineer
-<img align="left" width=90 src="./images/andrei.png" style="margin: 0 15px 0 0" >
+<img align="left" width=88 src="./images/andrei.png" style="margin: 0 15px 0 0" >
 
 I believe that the only way to trully overcome a challenge is to build a deep understanding of the systems around it and then build your solution on top of that. That is why in my work I'm practicing holistic approach, system thinking and constantly grow my knowledge in multiple disciplines like Mobile, Backend, DevOps, etc. 
 
@@ -23,9 +23,8 @@ I build this project from the scratch in attempt to solve bill keeping problem t
 ##### **Experience and achievements**
 * `Apr 2021 - Present` iOS Software Engineer at [Simply Receipts](https://chenchik.me/simply-receipts): I've built the whole product from scratch and launched it to the AppStore.
 * `Jan 2021 - Present` Backend developer at [enableOps](https://enableops.io/): Besides being a co-founder I build the `React` frontend and `API` with `PostgreSQL` to let customers auth using Google `OAuth` interface and setup a Kubernetes cluster.
-* `Mar 2020 - Apr 2021` Product Manager at [TruBe](https://ya.ru): Besides growing a mobile app as manager I've built `analytics system` with multiple dashboards using `Python` and `SQL`, which was helping to bring more value to customers.
+* `Mar 2020 - Apr 2021` Product Manager at [TruBe](https://ya.ru): Besides growing a mobile app as manager I've built `analytics system` with multiple dashboards using `Python` and `SQL`, which was used to bring more value to customers.
 * `Feb 2019 - Mar 2020` Technical Product Manager at [ABBYY](https://www.abbyy.com/): Besides driving development of complex ml-powered `Mobile SDK` I've written several `iOS` and `Android` apps and recorded webinars to demonstrate abilities of our SDK.
 * `Apr 2014 - Oct 2018` Product Lead at [Oktos](https://appadvice.com/app/oktos-messenger/1362473814): Besides leading crossplatform team of `mobile app` developers I've implemented `CI/CD` system to increase team throughput and introduced `fastlane` toolset to fix ios app-signing pains.
-* `Jul 2008 - Mar 2014` Lead Frontend Developer at [Acronis](https://www.acronis.com/en-us/): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
 *__FUN FACTS__: I write [blog](https://chenchik.me). Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter [@AndreiChenchik](https://twitter.com/AndreiChenchik).*
