@@ -9,7 +9,7 @@ Looking for a starting position as iOS developer to help build and ship great ap
 <br> **Languages**: English `B2`, Spanish `A1` (como un niño de tres años)
 <br> **Contacts**: [andrei@chenchik.me](mailto:andrei@chenchik.me), [+34 635 317 389](tel:+34635317389), [github.com/AndreiChenchik](https://github.com/AndreiChenchik), [linkedin.com/in/achenchik](https://www.linkedin.com/in/achenchik)
 
-#### **What I do, with examples:**
+##### **What I do, with examples:**
 - Mobile using `Swift` with `UIKit` or `SwiftUI`: [Simply Receipts](https://github.com/AndreiChenchik/receipt)
 - Backend using `Python` with `FastAPI`, `GraphQL`, `Postgres` and `Reddis`: [enableOps api](https://github.com/enableops/api-service)
 - Web Frontend using `JS/TS` with `React`: [enableOps website](https://github.com/enableops/enableops.github.io/tree/main/src/components)
@@ -21,12 +21,12 @@ Looking for a starting position as iOS developer to help build and ship great ap
 <img align="left" width=80 src="./images/andrei.jpg" style="margin: 0 10px" >
 Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
-#### **Past experience:**
-* Co-Founder and Backend developer at enableOps: `Jan 2021 - Present` <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
-* **Product Manager at TruBe**, `Jan 2021 - Present`: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
-* Product Manager at ABBYY: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
-* Product Manager at Oktos.io: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
-* Lead Frontend Developer at Acronis: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+##### **Past experience:**
+* Co-Founder and Backend developer at enableOps, `Jan 2021 - Present`: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* Product Manager at TruBe, `Jan 2021 - Present`: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* Product Manager at ABBYY, `Jan 2021 - Present`: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* Product Manager at Oktos.io, `Jan 2021 - Present`: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* Lead Frontend Developer at Acronis, `Jan 2021 - Present`: Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
 ---
 
