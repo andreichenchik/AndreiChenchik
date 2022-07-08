@@ -6,6 +6,7 @@ Solving hard challenges with real solutions.
 Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
 
+Contact me: [andrei@chenchik.me](mailto:andrei@chenchik.me), [@AndreiChenchik](https://twitter.com/AndreiChenchik), [GitHub](https://github.com/AndreiChenchik), [LinkedIn](https://www.linkedin.com/in/achenchik), [+34 635 317 389](tel:+34635317389)
 
 ---
 
@@ -16,10 +17,7 @@ Looking for a starting position as iOS developer to help build and ship great ap
 - DevOps, CI&CD using `Pulumi`, `ArgoCD`, `GitHub Actions` and `Kubernetes`: [local GitOps & IaaC, source](https://github.com/AndreiChenchik/local-cluster)
 - Data, ML&DL using `Python` with `Jupyter`, `Pandas`, `Numpy`, `PyTorch`: [Simpsons DeepLearning, source](https://github.com/AndreiChenchik/dlschool/blob/main/14.1%20%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A1%D0%B8%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D0%BE%D0%B2/simpsons_resnet50.ipynb)
 
-Skills
-- **Critical thinking and problem solving**: if you have a problem I will provide a working solution
-- **Can manage full cycle of software development**: have prior experience as team leader of team 20+ ppl
-- **Businisses analysis**: have prior experience as product manager and data analyst
+**Latest project:**
 
 ---
 
