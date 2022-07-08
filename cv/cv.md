@@ -21,7 +21,7 @@ I'm always looking forward to work and learn from dynamic teams, tackle hard cha
 I build this project from the scratch in attempt to solve bill keeping problem that I have. It's 100% built using `SwiftUI`, using `CoreData` for data persistence with `CloudKit` for crossdevice synchronization. One of the most interesting challenge was to use `concurrency` for scanning in background while still be able to save data with `CoreData`. And I have to comeup with `algorithm` to parse block of texts into list of cart items.
 
 ##### **Experience and achievements**
-* `Apr 2021 - Present` iOS Software Engineer at [Simply Receipts](https://chenchik.me/simply-receipts): I've built the whole product from scratch and launched it to the AppStore.
+* `Apr 2021 - Present` iOS Software Engineer at [Simply Receipts](https://chenchik.me/simply-receipts): I've built the whole product from scratch and launched it to the AppStore to get first customers.
 * `Jan 2021 - Present` Fullstack developer at [enableOps](https://enableops.io/): I've built the `React` frontend and `API` with `PostgreSQL` to let customers auth using Google `OAuth` interface and setup a Kubernetes cluster.
 * `Mar 2020 - Apr 2021` Product Manager at [TruBe](https://ya.ru): Besides growing a mobile app I've built `analytics system` with multiple dashboards using `Python` and `SQL` to better understand customers.
 * `Feb 2019 - Mar 2020` Technical Product Manager at [ABBYY](https://www.abbyy.com/): Besides driving development of complex ml-powered `Mobile SDK` I've written several `iOS` and `Android` apps and recorded webinars to demonstrate abilities of our SDK.
