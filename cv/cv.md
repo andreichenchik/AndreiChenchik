@@ -7,13 +7,13 @@ Looking for a starting position as iOS developer to help build and ship great ap
 
 <br clear="all">
 
-**Contacts**: [andrei@chenchik.me](mailto:andrei@chenchik.me), [@AndreiChenchik](https://twitter.com/AndreiChenchik), [GitHub](https://github.com/AndreiChenchik), [LinkedIn](https://www.linkedin.com/in/achenchik), [+34 635 317 389](tel:+34635317389)
-<br> **Visa**: Spain residency and work permit
-<br> **Languages**: English B2, Spanish A1 (como un niño de tres años)
+**Visa**: Spain residency and work permit
+<br> **Languages**: English `B2`, Spanish `A1` (como un niño de tres años)
+<br> **Contacts**: [andrei@chenchik.me](mailto:andrei@chenchik.me), [@AndreiChenchik](https://twitter.com/AndreiChenchik), [GitHub](https://github.com/AndreiChenchik), [LinkedIn](https://www.linkedin.com/in/achenchik), [+34 635 317 389](tel:+34635317389)
 
 ---
 
-**What I can do with examples:**
+**What I do, with examples:**
 - Mobile using `Swift` with `UIKit` or `SwiftUI`: [Simply Receipts](https://github.com/AndreiChenchik/receipt)
 - Web Frontend using `JS/TS` with `React`: [enableOps website](https://github.com/enableops/enableops.github.io/tree/main/src/components)
 - Backend using `Python` with `FastAPI`, `GraphQL`, `Postgres` and `Reddis`: [enableOps api](https://github.com/enableops/api-service)
