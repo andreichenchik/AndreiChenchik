@@ -1,4 +1,4 @@
-# Andrei Chenchik, iOS Software Engineer
+## Andrei Chenchik, iOS Software Engineer
 <img align="left" width=80 src="./images/andrei.jpg" style="margin: 0 10px" >
 
 Solving hard challenges with real solutions.  
