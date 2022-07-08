@@ -16,7 +16,7 @@ Looking for a starting position as iOS developer to help build and ship great ap
 - DevOps, CI&CD using `Pulumi`, `ArgoCD`, `GH Actions` and `Kubernetes`: [local GitOps & IaaC](https://github.com/AndreiChenchik/local-cluster)
 - Data, ML&DL using `Python` with `Pandas`, `Numpy`, `PyTorch`: [Simpsons DeepLearning](https://github.com/AndreiChenchik/dlschool/blob/main/14.1%20%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A1%D0%B8%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D0%BE%D0%B2/simpsons_resnet50.ipynb)
 
-##### **Latest project: Simply Receipts ([AppStore](https://apps.apple.com/app/simply-receipts-tracker/id1586132989), [GitHub](https://github.com/AndreiChenchik/receipt))**
+##### **Latest project: Simply Receipts ([AppStore](https://apps.apple.com/app/simply-receipts-tracker/id1586132989), [GitHub](https://github.com/AndreiChenchik/receipt), [Blog](https://chenchik.me/simply-receipts))**
 
 Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
