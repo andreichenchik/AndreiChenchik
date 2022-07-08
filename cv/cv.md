@@ -20,6 +20,16 @@ Looking for a starting position as iOS developer to help build and ship great ap
 
 **Latest project:**
 
+<img align="left" width=80 src="./images/andrei.jpg" style="margin: 0 10px" >
+Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+
+**Past experience:**
+* Co-Founder and Backend developer at enableOps: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* Product Manager at TruBe: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* Product Manager at ABBYY: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* Product Manager at Oktos.io: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* Lead Frontend Developer at Acronis: Jan 2021 - Present <br> Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+
 ---
 
 *__FUN FACTS__: Have a [blog](https://chenchik.me). Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter [@AndreiChenchik](https://twitter.com/AndreiChenchik).*
