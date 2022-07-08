@@ -5,11 +5,9 @@ Solving hard challenges with real solutions.
 
 Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
-<br clear="all">
-
 **Visa**: Spain residency and work permit
 <br> **Languages**: English `B2`, Spanish `A1` (como un niño de tres años)
-<br> **Contacts**: [andrei@chenchik.me](mailto:andrei@chenchik.me), [@AndreiChenchik](https://twitter.com/AndreiChenchik), [GitHub](https://github.com/AndreiChenchik), [LinkedIn](https://www.linkedin.com/in/achenchik), [+34 635 317 389](tel:+34635317389)
+<br> **Contacts**: [andrei@chenchik.me](mailto:andrei@chenchik.me), [+34 635 317 389](tel:+34635317389), [github.com/AndreiChenchik](https://github.com/AndreiChenchik), [linkedin.com/in/achenchik](https://www.linkedin.com/in/achenchik)
 
 ---
 
@@ -24,6 +22,4 @@ Looking for a starting position as iOS developer to help build and ship great ap
 
 ---
 
-
-
-*FUN FACTS: Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria).*
+*__FUN FACTS__: Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter [@AndreiChenchik](https://twitter.com/AndreiChenchik).*
