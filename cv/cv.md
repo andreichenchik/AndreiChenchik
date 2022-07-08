@@ -7,7 +7,7 @@ Looking for a starting position as iOS developer to help build and ship great ap
 
 **Visa and Location**: Spain residency and work permit, live in Barcelona.
 <br> **Languages**: English `B2`, Spanish `A1` (como un niño de tres años)
-<br> **Contacts**: [andrei@chenchik.me](mailto:andrei@chenchik.me), [+34 635 317 389](tel:+34635317389), [github.com/AndreiChenchik](https://github.com/AndreiChenchik), [linkedin.com/in/achenchik](https://www.linkedin.com/in/achenchik)
+<br> **Contacts**: [andrei@chenchik.me](mailto:andrei@chenchik.me), [+34 635 317 389](tel:+34635317389), [**github.com/AndreiChenchik**](https://github.com/AndreiChenchik), [linkedin.com/in/achenchik](https://www.linkedin.com/in/achenchik)
 
 ---
 
