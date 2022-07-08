@@ -1,14 +1,17 @@
-# Andrei Chenchik
+# Andrei Chenchik, iOS Software Engineer
 <img align="left" width=80 src="./images/andrei.jpg" style="margin: 0 10px" >
+
 Solving hard challenges with real solutions.  
 
 Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
+
+
 ---
 
-What I do
-- **Mobile** on Swift with UIKit or SwiftUI: [Simply Receipts](https://chenchik.me/simply-receipts.html), source
-- **Web** on TypeScript with React and Nextjs: [enableOps website](https://enableops.io), [*source*](https://github.com/enableops/enableops.github.io/tree/main/src/components)
+**What I do with examples**
+- Mobile using Swift with `UIKit` or `SwiftUI`: [Simply Receipts](https://chenchik.me/simply-receipts.html), source
+- Web using JS/TS with `React`: [enableOps website](https://enableops.io), [*source*](https://github.com/enableops/enableops.github.io/tree/main/src/components)
 - **Backend** on Python with FastAPI, Strawberry GraphQL, Postgres and Reddis: [enableOps api](), [*source*](https://github.com/enableops/api-service)
 - **DevOps** on Kubernetes with Pulumi, ArgoCD and GitHub Actions: [local GitOps & IaaC, source](https://github.com/AndreiChenchik/local-cluster)
 
