@@ -21,7 +21,7 @@ I'm always looking forward to work with dynamic teams to tackle hard challenges 
 I build this project from the scratch in attempt to solve bill keeping problem that I have. It's 100% built using `SwiftUI`, using `CoreData` for data persistence with `CloudKit` for crossdevice synchronization. One of the most interesting challenge was to use `concurrency` for scanning in background while still be able to save data with `CoreData`. And I have to comeup with `algorithm` to parse block of texts into list of cart items.
 
 ##### **Experience and achievements**
-* `Apr 2021 - Present` Co-Founder and Backend developer at [enableOps](https://enableops.io/): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* `Apr 2021 - Present` Founder and iOS Software Engineer at [Simply Receipts](https://chenchik.me/simply-receipts): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * `Jan 2021 - Present` Co-Founder and Backend developer at [enableOps](https://enableops.io/): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * `Mar 2020 - Apr 2021` Product Manager at [TruBe](https://ya.ru): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * `Feb 2019 - Mar 2020` Technical Product Manager at [ABBYY](https://www.abbyy.com/): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
