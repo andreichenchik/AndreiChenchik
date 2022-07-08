@@ -1,9 +1,9 @@
 ## Andrei Chenchik, iOS Software Engineer
 <img align="left" width=100 src="./images/andrei.png" style="margin: 0 15px 0 0" >
 
-Solving hard challenges with real solutions.  Solving hard challenges with real solutions. Solving hard challenges with real solutions.  Solving hard challenges with real solutions.  
+I believe that the only way to trully overcome a challenge is to build a deep understanding of the systems around it and then build your solution on top of that. That is why in my work I'm practicing holistic approach, system thinking and constantly grow my knowledge in multiple disciplines like Mobile, Backend, DevOps, etc. 
 
-Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+I'm always looking forward to work with dynamic teams to tackle hard challenges with lots of data, complex and snappy UIs to deliver business value to customers.
 
 **Visa and Location**: Spain residency and work permit, live in Barcelona.
 <br> **Languages**: English `B2`, Spanish `A1` (como un niño de tres años)
@@ -21,8 +21,8 @@ Looking for a starting position as iOS developer to help build and ship great ap
 Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge. Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
 ##### **Experience and achievements**
-* `Apr 2021 - Present ` Co-Founder and Backend developer at [enableOps](https://enableops.io/): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
-* `Jan 2021 -  Present` Co-Founder and Backend developer at [enableOps](https://enableops.io/): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* `Apr 2021 - Present` Co-Founder and Backend developer at [enableOps](https://enableops.io/): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
+* `Jan 2021 - Present` Co-Founder and Backend developer at [enableOps](https://enableops.io/): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * `Mar 2020 - Apr 2021` Product Manager at [TruBe](https://ya.ru): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * `Feb 2019 - Mar 2020` Technical Product Manager at [ABBYY](https://www.abbyy.com/): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 * `Apr 2014 - Oct 2018` Product Lead at [Oktos](https://appadvice.com/app/oktos-messenger/1362473814): Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
