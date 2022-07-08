@@ -1,5 +1,5 @@
 ## Andrei Chenchik, iOS Software Engineer
-<img align="left" width=100 src="./images/andrei.png" style="margin: 0 15px 0 0" >
+<img align="left" width=90 src="./images/andrei.png" style="margin: 0 15px 0 0" >
 
 I believe that the only way to trully overcome a challenge is to build a deep understanding of the systems around it and then build your solution on top of that. That is why in my work I'm practicing holistic approach, system thinking and constantly grow my knowledge in multiple disciplines like Mobile, Backend, DevOps, etc. 
 
