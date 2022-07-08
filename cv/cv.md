@@ -1,7 +1,7 @@
 ## Andrei Chenchik, iOS Software Engineer
-<img align="left" width=80 src="./images/andrei.jpg" style="margin: 0 10px" >
+<img align="left" width=75 src="./images/andrei.jpg" style="margin: 0 10px" >
 
-Solving hard challenges with real solutions.  
+Solving hard challenges with real solutions.  Solving hard challenges with real solutions. Solving hard challenges with real solutions.  Solving hard challenges with real solutions.  
 
 Looking for a starting position as iOS developer to help build and ship great apps, help users and to improve my iOS platform knowledge.
 
