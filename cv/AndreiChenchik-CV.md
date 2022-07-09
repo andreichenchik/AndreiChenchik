@@ -10,12 +10,12 @@ Always looking forward to working and learning from dynamic teams, tackling hard
 * Languages: English *B2*, Spanish *A1* (como un niño de tres años)
 * Contacts: [andrei@chenchik.me](mailto:andrei@chenchik.me), [+34 635 317 389](tel:+34635317389), [github.com/AndreiChenchik](https://github.com/AndreiChenchik), [linkedin.com/in/AndreiChenchik](https://www.linkedin.com/in/AndreiChenchik)
 ### **Right now**
-`Simply Receipts App` [AppStore](https://apps.apple.com/app/simply-receipts-tracker/id1586132989), [Source Code](https://github.com/AndreiChenchik/receipt), [Description](https://chenchik.me/simply-receipts)
-I started this project in `Apr 2021` as a learning project from the scratch in an attempt to solve bill keeping problem that I have, and since then I'm improving it and trying new things. One of the most interesting challenges was to use `concurrency` for running a `deep learning` network in the background while still being able to save data with `CoreData`. And I have to come up with an `algorithm` to parse the block of texts into the list of cart items.
+`iOS Developer` at [Simply Receipts App](https://chenchik.me/simply-receipts) ([source code](https://github.com/AndreiChenchik/receipt)):
+I started bulding this app from the scratch in `Apr 2021` as a learning project in an attempt to solve bill keeping problem that I have, and since then I'm improving it and trying new things. One of the most interesting challenges was to use `concurrency` for running a `deep learning` network in the background while still being able to save data with `CoreData`. And I have to come up with an `algorithm` to parse the block of texts into the list of cart items.
 - It's 100% built using `SwiftUI` with `MVVM` pattern 
 - Using `CoreData` for data persistence with `CloudKit` for crossdevice synchronization
 ### **Other experience and achievements**
-* `Jan 2021 - Feb 2022` Fullstack developer at [enableOps](https://enableops.io/): 
+* `Jan 2021 - Feb 2022` Fullstack developer at [enableOps](https://enableops.io/) ([source code](https://github.com/enableops/api-service)): 
 	* Learned how to build APIs using Python, so now I can create basic APIs for my Apps.
 	* Built the `React` frontend and `API` with `PostgreSQL` to let customers auth using Google `OAuth` interface and set up a Kubernetes cluster.
 * `Apr 2014 - Apr 2021` Product Lead at multiple companies ([TruBe](https://ya.ru), [ABBYY](https://www.abbyy.com/), [Oktos](https://appadvice.com/app/oktos-messenger/1362473814)): Besides growing a mobile app products, hiring and coaching team of developers:
