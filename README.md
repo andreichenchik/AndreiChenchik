@@ -36,8 +36,8 @@ Fun facts
 
 <br>
 
-Sometimes I write [blog](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/achenchik/) to talk about jobs. 
+Sometimes I write [blog](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/AndreiChenchik/) to talk about jobs. 
 
-Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/releases/latest/download/AndreiChenchik-CV.pdf) or [**view** on GitHub](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/cv/cv.md)!
+Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/raw/main/cv/AndreiChenchik-CV.pdf) or [**view** on GitHub](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/cv/AndreiChenchik-CV.md)!
 
 
