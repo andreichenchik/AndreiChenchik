@@ -6,8 +6,8 @@ I believe that the only way to truly overcome a challenge is to build a deep und
 
 Always looking forward to working and learning from dynamic teams, tackling hard challenges with lots of data, and complex and snappy UIs to deliver business value to customers.
 ### **Basic info**
-* Visa and Location: Spain residency and work permit, live in Barcelona.
-* Languages: English *B2*, Spanish *A1* (como un niño de tres años)
+* Visa and Location: Spain `residency` and `work permit`, live in Barcelona.
+* Languages: English `B2`, Spanish `A1` (como un niño de tres años)
 * Contacts: [andrei@chenchik.me](mailto:andrei@chenchik.me), [+34 635 317 389](tel:+34635317389), [github.com/AndreiChenchik](https://github.com/AndreiChenchik), [linkedin.com/in/AndreiChenchik](https://www.linkedin.com/in/AndreiChenchik)
 ### **Right now**
 `iOS Developer` at [Simply Receipts App](https://chenchik.me/simply-receipts) ([source code](https://github.com/AndreiChenchik/receipt)):
@@ -17,7 +17,7 @@ I started bulding this app from the scratch in `Apr 2021` as a learning project 
 ### **Other experience and achievements**
 * `Jan 2021 - Feb 2022` Fullstack developer at [enableOps](https://enableops.io/) ([source code](https://github.com/enableops/api-service)): 
 	* Learned how to build APIs using Python, so now I can create basic APIs for my Apps.
-	* Built the `React` frontend and `API` with `PostgreSQL` to let customers auth using Google `OAuth` interface and set up a Kubernetes cluster.
+	* Following `SOLID` principles built the `React` frontend and `API` with `PostgreSQL` to let customers auth using Google `OAuth` interface and set up a Kubernetes cluster.
 * `Apr 2014 - Apr 2021` Product Lead at multiple companies ([TruBe](https://ya.ru), [ABBYY](https://www.abbyy.com/), [Oktos](https://appadvice.com/app/oktos-messenger/1362473814)): Besides growing a mobile app products, hiring and coaching team of developers:
 	* Built an `analytics system` with multiple dashboards using `Python` and `SQL` to better understand customers and increased conversion
 	* Written several `iOS` and `Android` apps and recorded webinars to demonstrate the abilities of our ml-powered SDK and bring more sales
