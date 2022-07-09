@@ -8,11 +8,11 @@ Always looking forward to working and learning from dynamic teams, tackling hard
 ### **Basic info**
 Visa and Location: Spain residency and work permit, live in Barcelona.
 Languages: English *B2*, Spanish *A1* (como un niño de tres años)
-Contacts: [andrei@chenchik.me](mailto:andrei@chenchik.me), [+34 635 317 389](tel:+34635317389), [github.com/AndreiChenchik](https://github.com/AndreiChenchik), [linkedin.com/in/achenchik](https://www.linkedin.com/in/achenchik)
+Contacts: [andrei@chenchik.me](mailto:andrei@chenchik.me), [+34 635 317 389](tel:+34635317389), [github.com/AndreiChenchik](https://github.com/AndreiChenchik), [linkedin.com/in/AndreiChenchik](https://www.linkedin.com/in/AndreiChenchik)
 ### **Right now**
 `Simply Receipts App` [AppStore](https://apps.apple.com/app/simply-receipts-tracker/id1586132989), [Source Code](https://github.com/AndreiChenchik/receipt), [Description](https://chenchik.me/simply-receipts)
 I've started this project in `Apr 2021` as learning project from the scratch in attempt to solve bill keeping problem that I have, and since then I'm improving it and trying new things. One of the most interesting challenge was to use `concurrency` for running `deep learning` network in background while still be able to save data with `CoreData`. And I have to comeup with `algorithm` to parse block of texts into list of cart items.
-- It's 100% built using `SwiftUI`
+- It's 100% built using `SwiftUI` with `MVVM` pattern 
 - Using `CoreData` for data persistence with `CloudKit` for crossdevice synchronization
 ### **Other experience and achievements**
 * `Jan 2021 - Feb 2022` Fullstack developer at [enableOps](https://enableops.io/): 
@@ -22,5 +22,5 @@ I've started this project in `Apr 2021` as learning project from the scratch in 
 	* Built an `analytics system` with multiple dashboards using `Python` and `SQL` to better understand customers and increased conversion
 	* Written several `iOS` and `Android apps` and recorded webinars to demonstrate abilities of our ml-powered SDK and bring more sales
 	* Implemented `CI/CD` system to increase team throughput and introduced `fastlane` toolset to fix ios app-signing pains.
----
-**Fun facts about me**: I write a [blog](https://chenchik.me). Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in an imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter [@AndreiChenchik](https://twitter.com/AndreiChenchik).*
+### **Fun facts about me** 
+I write a [blog](https://chenchik.me). Did 400km of Camino de Santiago in [2022](https://storyteller.fit/album/384). Speak Russian. Run 2021km in [2021](https://www.strava.com/athletes/44250763). Was 34 in 2022. Do long bike [rides](https://www.strava.com/activities/4836441053). Born in an imaginary land - [Transnistria](https://en.wikipedia.org/wiki/Transnistria). Have twitter [@AndreiChenchik](https://twitter.com/AndreiChenchik).
