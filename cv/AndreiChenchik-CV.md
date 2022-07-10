@@ -18,7 +18,7 @@ I started building this app from the scratch in `Apr 2021` as a learning project
 * `Jan 2021 - Feb 2022` Fullstack developer at [enableOps](https://enableops.io/) ([source code](https://github.com/enableops/api-service)): 
 	* Learned how to build APIs using Python, so now I can create basic APIs for my Apps.
 	* Following `SOLID` principles built the `React` frontend and `API` with `PostgreSQL` to let customers auth using Google `OAuth` interface and set up a Kubernetes cluster.
-* `Apr 2014 - Apr 2021` Product Lead at multiple companies ([TruBe](https://ya.ru), [ABBYY](https://www.abbyy.com/), [Oktos](https://appadvice.com/app/oktos-messenger/1362473814)): Besides growing a mobile app products, hiring and coaching team of developers:
+* `Apr 2014 - Apr 2021` Product Lead at multiple companies ([TruBe](https://ya.ru), [ABBYY](https://www.abbyy.com/), [Oktos](https://appadvice.com/app/oktos-messenger/1362473814)): Besides growing a mobile app products, preparing requirements and documentation, hiring and coaching team of developers:
 	* Written several `iOS` and `Android` apps and recorded webinars to demonstrate the abilities of our ml-powered SDK and bring more sales.
 	* Designed and driven implementation of `e2e encryption` for mobile messenger app, this feature became main in the product and provided the biggest customer. 
 	* Implemented `CI/CD` system to increase team throughput and introduced `Fastlane` toolset to fix ios app-signing pains.
