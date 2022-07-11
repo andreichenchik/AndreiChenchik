@@ -2,9 +2,11 @@
 
 **Привет!**
 
-I believe that the only way to trully overcome a challenge is to build a deep understanding of the systems around it and then build your solution on top of that. That is why in my work I'm practicing holistic approach, system thinking and constantly grow my knowledge in multiple disciplines like Mobile, Backend, DevOps, etc.
+I have over 7 years in mobile apps as a product lead and 1 year as a developer. During my career, I went the whole way from a support specialist, though a frontend developer, project and product lead and have chosen to grow as Swift Developer. I think the Swift ecosystem is the best one right now and have all chances to become significant in all fields (not just mobile) due to the constant evolution of the language and LLVM.
 
-I'm always looking forward to work and learn from dynamic teams, tackle hard challenges with lots of data, complex and snappy UIs to deliver business value to customers.
+I believe that the only way to truly overcome a challenge is to build a deep understanding of the systems around it and then build your solution on top of that. That is why in my work I'm practising a holistic approach, and system thinking and constantly growing my knowledge in multiple disciplines like Mobile, Deep Learning, Backend, DevOps, etc.
+
+Always looking forward to working and learning from dynamic teams, tackling hard challenges with lots of data, and complex and snappy UIs to deliver business value to customers.
 
 Creator of [Simply Receipts](https://chenchik.me/simply-receipts.html) and [enableOps](https://enableops.io), **open for job** offers.
 
