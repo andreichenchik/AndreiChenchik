@@ -8,10 +8,6 @@ I believe that the only way to truly overcome a challenge is to build a deep und
 
 Always looking forward to working and learning from dynamic teams, tackling hard challenges with lots of data, and complex and snappy UIs to deliver business value to customers.
 
-Creator of [Simply Receipts](https://chenchik.me/simply-receipts.html) and [enableOps](https://enableops.io), **open for job** offers.
-
-<br clear="all"/>
-
 <br>
 
 What I do
