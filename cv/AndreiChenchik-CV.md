@@ -15,7 +15,7 @@ I started building this app from the scratch in `Apr 2021` as a learning project
 - It's 100% built using `SwiftUI` with `MVVM` pattern 
 - Using `CoreData` for data persistence with `CloudKit` for crossdevice synchronization
 ### **Other experience and achievements**
-* `Jan 2021 - Feb 2022` Fullstack developer at [enableOps](https://enableops.io/) ([source code](https://github.com/enableops/api-service)): 
+* `Jan 2021 - Feb 2022` Full Stack Engineer at [enableOps](https://enableops.io/) ([source code](https://github.com/enableops/api-service)): 
 	* Learned how to build APIs using Python, so now I can create basic APIs for my Apps.
 	* Following `SOLID` principles built the `React` frontend and `API` with `PostgreSQL` to let customers auth using Google `OAuth` interface and set up a Kubernetes cluster.
 * `Apr 2014 - Apr 2021` Product Lead at multiple companies ([TruBe](https://ya.ru), [ABBYY](https://www.abbyy.com/), [Oktos](https://appadvice.com/app/oktos-messenger/1362473814)): Besides growing a mobile app products, preparing requirements and documentation, hiring and coaching team of developers:
