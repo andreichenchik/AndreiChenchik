@@ -8,7 +8,7 @@ Always looking forward to working and learning from dynamic teams, tackling hard
 ### **Basic info**
 * Visa and Location: Spain `residency` and `work permit`, live in Barcelona.
 * Languages: English `B2`, Spanish `A1` (como un niño de tres años)
-* Contacts: [andrei@chenchik.me](mailto:andrei@chenchik.me), [+34 635 317 389](tel:+34635317389), [github.com/AndreiChenchik](https://github.com/AndreiChenchik), [linkedin.com/in/AndreiChenchik](https://www.linkedin.com/in/AndreiChenchik)
+* Contacts: [andrei@chenchik.me](mailto:andrei@chenchik.me), [+34 635 317 389](tel:+34635317389), [github.com/AndreiChenchik](https://github.com/AndreiChenchik), [linkedin.com/in/AndreiChenchik](https://www.linkedin.com/in/AndreiChenchik), [Calendly](https://calendly.com/andreichenchik/ios)
 ### **Right now**
 `iOS Developer` at [Simply Receipts App](https://chenchik.me/simply-receipts) ([source code](https://github.com/AndreiChenchik/receipt)):
 I started building this app from the scratch in `Apr 2021` as a learning project in an attempt to solve bill keeping problem that I have, and since then I'm improving it and trying new things. One of the most interesting challenges was to use `concurrency` for running a `deep learning` network in the background while still being able to save data with `CoreData`. And I have to come up with an `algorithm` to parse the block of texts into the list of cart items.

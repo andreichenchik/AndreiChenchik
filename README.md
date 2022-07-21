@@ -13,15 +13,15 @@ Always looking forward to working and learning from dynamic teams, tackling hard
 What I do
 - **Mobile** using <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-swift.svg" width="16" style> Swift with UIKit, SwiftUI, CoreData: [Simply Receipts](https://github.com/AndreiChenchik/receipt)
 - **Web** using <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-typescript.svg" width="16"> TypeScript with React and Nextjs: [enableOps website](https://github.com/enableops/enableops.github.io/tree/main/src/components)
-- **Backend** using <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-python.svg" width="16"> Python with FastAPI, Strawberry GraphQL, Postgres and Reddis: [enableOps api](https://github.com/enableops/api-service)
+- **Backend** using <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-python.svg" width="16"> Python with FastAPI, Strawberry GraphQL, Postgres and Redis: [enableOps API](https://github.com/enableops/api-service)
 - **DevOps** using <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-kubernetes.svg" width="16"> Kubernetes with Pulumi, ArgoCD and GitHub Actions: [local GitOps & IaaC](https://github.com/AndreiChenchik/local-cluster)
 
 <br>
 
 Skills
 - **Critical thinking and problem solving**: if you have a problem I will provide a working solution
-- **Can manage full cycle of software development**: have prior experience as team manager of team with up to 25 ppl
-- **Businisses analysis**: have prior experience as product manager and data analyst
+- **Can manage the full cycle of software development**: have prior experience as team manager of a team with up to 25 ppl
+- **Business analysis**: have prior experience as a product manager and data analyst
 
 <br>
 
@@ -33,9 +33,8 @@ Fun facts
 - My <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-key.svg" width="16"> PGP fingerprint is [16F2 94C8 5A67 F0D5 1E54 8ACB A688 B7C1 16CA 5B13](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/andrei.asc) 
 
 <br>
-
-Sometimes I write [blog](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/AndreiChenchik) to talk about jobs. 
-
-Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/raw/main/cv/AndreiChenchik-CV.pdf) or [**view** on GitHub](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/cv/AndreiChenchik-CV.md)!
-
-Ready to talk? [Book a video call](https://calendly.com/andreichenchik/ios)!
+More info
+* Sometimes I write [blogs](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/AndreiChenchik) to talk about jobs. 
+* Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/raw/main/cv/AndreiChenchik-CV.pdf) or [**view** it on GitHub](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/cv/AndreiChenchik-CV.md)!
+* Telegram: [@AndreiChenchik](https://t.me/AndreiChenchik)
+* Ready to talk? [Book a video call](https://calendly.com/andreichenchik/ios)!
