@@ -33,8 +33,9 @@ Fun facts
 - My <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-key.svg" width="16"> PGP fingerprint is [16F2 94C8 5A67 F0D5 1E54 8ACB A688 B7C1 16CA 5B13](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/andrei.asc) 
 
 <br>
+
 More info
-* Sometimes I write [blogs](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/AndreiChenchik) to talk about jobs. 
-* Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/raw/main/cv/AndreiChenchik-CV.pdf) or [**view** it on GitHub](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/cv/AndreiChenchik-CV.md)!
-* Telegram: [@AndreiChenchik](https://t.me/AndreiChenchik)
-* Ready to talk? [Book a video call](https://calendly.com/andreichenchik/ios)!
+- Sometimes I write [blogs](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/AndreiChenchik) to talk about jobs. 
+- Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/raw/main/cv/AndreiChenchik-CV.pdf) or [**view** it on GitHub](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/cv/AndreiChenchik-CV.md)!
+- Telegram: [@AndreiChenchik](https://t.me/AndreiChenchik)
+- Ready to talk? [Book a video call](https://calendly.com/andreichenchik/ios)!
