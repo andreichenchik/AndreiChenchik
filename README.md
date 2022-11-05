@@ -2,7 +2,7 @@
 
 **Привет!**
 
-I have over 7 years in mobile apps as a product lead and 1 year as a developer. During my career, I went the whole way from a support specialist, though a frontend developer, project and product lead and have chosen to grow as Swift Developer. I think the Swift ecosystem is the best one right now and have all chances to become significant in all fields (not just mobile) due to the constant evolution of the language and LLVM.
+I have over 2 years of experience as a mobile engineer and over 7 years as a product lead in mobile apps. During my career, I went the whole way from a support specialist, though a frontend developer, and project and product lead and have chosen to grow as Swift Developer. I think the Swift ecosystem is the best one right now and has a chance to become significant in all fields (not just mobile) due to the constant evolution of the language and LLVM.
 
 I believe that the only way to truly overcome a challenge is to build a deep understanding of the systems around it and then build your solution on top of that. That is why in my work I'm practising a holistic approach, and system thinking and constantly growing my knowledge in multiple disciplines like Mobile, Deep Learning, Backend, DevOps, etc.
 
@@ -10,7 +10,11 @@ Always looking forward to working and learning from dynamic teams, tackling hard
 
 <br>
 
-What I do
+What I do: **Mobile Apps** using <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-swift.svg" width="16" style> Swift with SwiftUI, Combine, Redux, UIKit, CoreData at [Saal Digital](https://www.saal-digital.es/)
+
+<br>
+
+My side projects
 - **Mobile** using <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-swift.svg" width="16" style> Swift with UIKit, SwiftUI, CoreData: [Simply Receipts](https://github.com/AndreiChenchik/receipt)
 - **Web** using <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-typescript.svg" width="16"> TypeScript with React and Nextjs: [enableOps website](https://github.com/enableops/enableops.github.io/tree/main/src/components)
 - **Backend** using <img src="https://raw.githubusercontent.com/AndreiChenchik/AndreiChenchik/main/icons/icons8-python.svg" width="16"> Python with FastAPI, Strawberry GraphQL, Postgres and Redis: [enableOps API](https://github.com/enableops/api-service)
