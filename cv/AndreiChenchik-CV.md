@@ -20,7 +20,7 @@ I tackle challenges through system thinking and a holistic approach, constantly 
 	- Introduced a modular project structure using `SPM`, transforming a monolithic codebase. Reducing build time by x3-x5 to improve  development speed.
 	- Migrated the app to `TCA` and `SwiftUI`, leveraging previews to speed up feature development and improve the workflow for creating new modules. With `SwiftUI -> UIKit` bridging for complex features.
 	- Introduced `unit testing` for the iOS platform, ensuring app stability and facilitating quicker iterations during development. 
-	- Stack: new modules with `SwiftUI`, `Combine`, `MVVM`, `TCA/Flux/Redux`, and legacy code with `UIKit`, `Clean Swift` and `CoreData`.
+	- Stack: new modules with `SwiftUI`, `Combine`, `MVVM`, `TCA`, plus `UIKit`, `CleanSwift`, `CoreData`, with `swift-openapi-generator`.
 - `Apr 2021 - Sep 2022` iOS Developer at [Simply Receipts App](https://chenchik.me/simply-receipts) ([source code](https://github.com/AndreiChenchik/receipt)): Built an AI-powered app for receipt recognition and tracking, addressing a personal need. This was my first AppStore project, where I learned iOS development.
 	- Utilized `CoreML` for accurate optical character recognition and  data extraction.
 	- It's 100% built using `SwiftUI` with `MVVM` pattern and `CoreData` for data persistence with `CloudKit` for cross-device synchronization.
