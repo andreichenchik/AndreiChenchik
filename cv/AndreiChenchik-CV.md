@@ -13,12 +13,12 @@ I tackle challenges through system thinking and a holistic approach, constantly 
 ### Right now
 `iOS & Backend Developer` at [ROBE](https://robe.mobi): Working as the only developer and cofounder in a small team to create an AI-powered wardrobe management app. The app simplifies classification and tracking of clothing items using advanced LLM AI.
  - Created backend and delivered the app to `TestFlight` release, enabling user testing and feedback.
- - Stack: `SwiftUI`, `Firebase`, `Typescript`, `GoogleCloud`, `Tuist`.
+ - Stack: `SwiftUI`, `Firebase`, `Typescript`, `GoogleCloud`, `Tuist`, `UIKit` for complex features.
 
 ### Previous roles
 - `Oct 2022 - Jul 2024` iOS Developer remotely at [Saal Digital](https://www.saal-digital.es/) ([AppStore](https://apps.apple.com/es/app/saal-design-app/id1481631197)): Developed an app for uploading photos, designing multi-page layouts (like canva), and ordering prints.
 	- Introduced a modular project structure using `SPM`, transforming a monolithic codebase. Reducing build time by x3-x5 to improve  development speed.
-	- Migrated the app to `TCA` and `SwiftUI`, leveraging previews to speed up feature development and improve the workflow for creating new modules.
+	- Migrated the app to `TCA` and `SwiftUI`, leveraging previews to speed up feature development and improve the workflow for creating new modules. With `SwiftUI -> UIKit` bridging for complex features.
 	- Introduced `unit testing` for the iOS platform, ensuring app stability and facilitating quicker iterations during development. 
 	- Stack: new modules with `SwiftUI`, `Combine`, `MVVM`, `TCA/Flux/Redux`, and legacy code with `UIKit`, `Clean Swift` and `CoreData`.
 - `Apr 2021 - Sep 2022` iOS Developer at [Simply Receipts App](https://chenchik.me/simply-receipts) ([source code](https://github.com/AndreiChenchik/receipt)): Built an AI-powered app for receipt recognition and tracking, addressing a personal need. This was my first AppStore project, where I learned iOS development.
