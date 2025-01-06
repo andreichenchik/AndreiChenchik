@@ -11,7 +11,7 @@ I tackle challenges through system thinking and a holistic approach, constantly 
 - Contacts: [andrei@chenchik.me](mailto\:andrei@chenchik.me), [+34 635 317 389](tel:+34635317389), [GitHub](https://github.com/AndreiChenchik), [LinkedIn](https://www.linkedin.com/in/AndreiChenchik), [Calendly](https://calendly.com/andreichenchik/ios).
 
 ### Right now
-`iOS Developer` + `some Backend` at [ROBE](https://robe.mobi): Working as the only developer and cofounder in a small team to create an AI-powered wardrobe management app. The app simplifies classification and tracking of clothing items using advanced LLM AI.
+`iOS Developer` + `some Backend` at [ROBE](https://robe.mobi) ([GitHub](https://github.com/AndreiChenchik/ROBE)): Working as the only developer and cofounder in a small team to create an AI-powered wardrobe management app. The app simplifies classification and tracking of clothing items using advanced LLM AI.
  - Created backend and delivered the app to `TestFlight` release, enabling user testing and feedback.
  - Stack: `SwiftUI`, `Firebase`, `Typescript`, `GoogleCloud`, `Tuist`, `UIKit` for complex features.
 
