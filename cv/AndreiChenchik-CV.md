@@ -4,7 +4,7 @@
 
 I have 4 years of experience as a mobile engineer and over 7 years as a product lead. I progressed from support specialist to frontend dev, then to product lead, and finally to Swift development, plus some TypeScript for backend, with each step deepening my industry synergy.
 
-I tackle challenges through system thinking and a holistic approach, constantly learning across fields like Mobile, AI, Backend & DevOps, and have recently started mentoring two aspiring developers.
+As a generalist, I believe every solution involves trade-offs, and a broad perspective is essential for evaluating options and finding the best approach. Mentoring others also enhances my own understanding.
 
 - Visa and Location: Spain `residency` and `work permit`, ready to remote work or in the office in Barcelona or nearby.
 - Languages: English `B2`, Spanish `B1`.
