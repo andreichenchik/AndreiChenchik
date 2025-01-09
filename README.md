@@ -2,6 +2,10 @@
 
 iOS  Developer with 4 years experience + 7 years as product lead in mobile products.
 
+As a generalist, I believe every solution involves trade-offs, and a broad perspective is essential for evaluating options and finding the best approach. Mentoring others also enhances my own understanding.
+
+#### Menties: [OlgaChusheva](https://github.com/OlgaChusheva), [septenmale](https://github.com/septenmale)
+
 ### Routing
 - Contact: [Telegram](https://t.me/AndreiChenchik), [LinkedIn](https://www.linkedin.com/in/AndreiChenchik), [Calendly](https://calendly.com/andreichenchik/ios)
 - Publications: [Blog](https://chenchik.me), [Twitter](https://twitter.com/AndreiChenchik), [Bluesky](https://hachyderm.io/@AndreiChenchik), [Telegram (in Russian)](https://t.me/cyberbodega)
@@ -10,10 +14,6 @@ iOS  Developer with 4 years experience + 7 years as product lead in mobile pr
 ### Projects
 - [ROBE](https://robe.mobi) ([repo](https://github.com/AndreiChenchik/ROBE)): AI-powered wardrobe management app.
 - [Simply Receipts App](https://chenchik.me/posts/simply-receipts/) ([AppStore](https://apps.apple.com/us/app/simply-receipts-tracker/id1586132989), [repo](https://github.com/AndreiChenchik/receipt)): AI-powered app for receipt recognition and tracking.
-
-### Menties
-- [OlgaChusheva](https://github.com/OlgaChusheva)
-- [septenmale](https://github.com/septenmale)
 
 ### Articles
 - [Why aren't we 100% rational?](https://chenchik.me/posts/why-cognitive-bias/)
