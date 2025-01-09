@@ -1,4 +1,4 @@
-### Привет 👋 I’m Andrei!
+### Привет 👋 I’m Andrei
 
 iOS  Developer with 4 years experience + 7 years as product lead in mobile products.
 
