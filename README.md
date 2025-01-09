@@ -4,7 +4,7 @@ iOS  Developer with 4 years experience + 7 years as product lead in mobile pr
 
 ### Routing
 - Contact: [Telegram](https://t.me/AndreiChenchik), [LinkedIn](https://www.linkedin.com/in/AndreiChenchik), [Calendly](https://calendly.com/andreichenchik/ios)
-- Publications: [Blog](https://chenchik.me), [Twitter](https://twitter.com/AndreiChenchik), [Bluesky](https://hachyderm.io/@AndreiChenchik)  
+- Publications: [Blog](https://chenchik.me), [Twitter](https://twitter.com/AndreiChenchik), [Bluesky](https://hachyderm.io/@AndreiChenchik), [Telegram (in Russian)](https://t.me/cyberbodega)
 - Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/raw/main/cv/AndreiChenchik-CV.pdf) or [**view** it on GitHub](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/cv/AndreiChenchik-CV.md)!
 
 ### Projects
