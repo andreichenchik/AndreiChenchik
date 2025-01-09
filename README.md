@@ -8,7 +8,7 @@ As a generalist, I believe every solution involves trade-offs, and a broad persp
 
 ### Routing
 - Contact: [Telegram](https://t.me/AndreiChenchik), [LinkedIn](https://www.linkedin.com/in/AndreiChenchik), [Calendly](https://calendly.com/andreichenchik/ios)
-- Publications: [Blog](https://chenchik.me), [Twitter](https://twitter.com/AndreiChenchik), [Bluesky](https://hachyderm.io/@AndreiChenchik), [Telegram (in Russian)](https://t.me/cyberbodega)
+- Publications: [Blog](https://chenchik.me), [Twitter](https://twitter.com/AndreiChenchik)<sup>63</sup>, [Bluesky](https://hachyderm.io/@AndreiChenchik)<sup>415</sup>, [Telegram (in Russian)](https://t.me/cyberbodega)<sup>38</sup>, [Mastodon](https://hachyderm.io/@andreichenchik)<sup>40</sup>
 - Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/raw/main/cv/AndreiChenchik-CV.pdf) or [**view** it on GitHub](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/cv/AndreiChenchik-CV.md)!
 
 ### Projects
