@@ -4,8 +4,7 @@ iOS  Developer with 4 years experience + 7 years as product lead in mobile pr
 
 As a generalist, I believe every solution involves trade-offs, and a broad perspective is essential for evaluating options and finding the best approach. 
 
-- Contact: [Telegram](https://t.me/AndreiChenchik), [LinkedIn](https://www.linkedin.com/in/AndreiChenchik), [Calendly](https://calendly.com/andreichenchik/ios)
-- Publications: [Blog](https://chenchik.me), [Twitter](https://twitter.com/AndreiChenchik)<sup>63</sup>, [Bluesky](https://hachyderm.io/@AndreiChenchik)<sup>415</sup>, [Telegram (in Russian)](https://t.me/cyberbodega)<sup>38</sup>, [Mastodon](https://hachyderm.io/@andreichenchik)<sup>40</sup>, [YouTube](https://www.youtube.com/@AndreiChenchik)<sup>13</sup>
+- Publications: [Blog](https://chenchik.me), [Bluesky](https://hachyderm.io/@AndreiChenchik)<sup>415</sup>, [Telegram (in Russian)](https://t.me/cyberbodega)<sup>38</sup>, [YouTube](https://www.youtube.com/@AndreiChenchik)<sup>13</sup>
 - Menties: [OlgaChusheva](https://github.com/OlgaChusheva)<sup>iOS</sup>, [septenmale](https://github.com/septenmale)<sup>iOS</sup>
 
 ### Projects
