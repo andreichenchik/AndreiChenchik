@@ -11,6 +11,10 @@ iOS  Developer with 4 years experience + 7 years as product lead in mobile pr
 - [ROBE](https://robe.mobi) ([repo](https://github.com/AndreiChenchik/ROBE)): AI-powered wardrobe management app.
 - [Simply Receipts App](https://chenchik.me/posts/simply-receipts/) ([AppStore](https://apps.apple.com/us/app/simply-receipts-tracker/id1586132989), [repo](https://github.com/AndreiChenchik/receipt)): AI-powered app for receipt recognition and tracking.
 
+### Menties
+- [OlgaChusheva](https://github.com/OlgaChusheva)
+- [septenmale](https://github.com/septenmale)
+
 ### Articles
 - [Why aren't we 100% rational?](https://chenchik.me/posts/why-cognitive-bias/)
 

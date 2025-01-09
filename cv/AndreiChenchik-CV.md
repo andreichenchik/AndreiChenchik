@@ -2,9 +2,9 @@
 
 ---
 
-I have 4 years of experience as a mobile engineer and over 7 years as a product lead. I progressed from support specialist to frontend developer, then to product lead, and finally to Swift development plus a bit of TypeScript coding for backend, with each step contributing to a deeper synergy of my industry understanding. 
+I have 4 years of experience as a mobile engineer and over 7 years as a product lead. I progressed from support specialist to frontend dev, then to product lead, and finally to Swift development, plus some TypeScript for backend, with each step deepening my industry synergy.
 
-I tackle challenges through system thinking and a holistic approach, constantly learning across fields like Mobile, AI, Backend & DevOps.
+I tackle challenges through system thinking and a holistic approach, constantly learning across fields like Mobile, AI, Backend & DevOps, and have recently started mentoring two aspiring developers.
 
 - Visa and Location: Spain `residency` and `work permit`, ready to remote work or in the office in Barcelona or nearby.
 - Languages: English `B2`, Spanish `B1`.
@@ -13,7 +13,7 @@ I tackle challenges through system thinking and a holistic approach, constantly 
 ### Right now
 `iOS Developer` + `some Backend` at [ROBE](https://robe.mobi) ([GitHub](https://github.com/AndreiChenchik/ROBE)): Working as the only developer and cofounder in a small team to create an AI-powered wardrobe management app. The app simplifies classification and tracking of clothing items using advanced LLM AI.
  - Created backend and delivered the app to `TestFlight` release, enabling user testing and feedback.
- - Stack: `SwiftUI`, `Firebase`, `Typescript`, `GoogleCloud`, `Tuist`, `UIKit` for complex features.
+ - Stack: `SwiftUI`, `UIKit`, `TCA`, `MVVM`, `Tuist`, `Firebase`, `TypeScript cloud functions`.
 
 ### Previous roles
 - `Oct 2022 - Jul 2024` iOS Developer remotely at [Saal Digital](https://www.saal-digital.es/) ([AppStore](https://apps.apple.com/es/app/saal-design-app/id1481631197)): Developed an app for uploading photos, designing multi-page layouts (like canva), and ordering prints.
