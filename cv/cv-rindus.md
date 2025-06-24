@@ -1,7 +1,5 @@
 ## Andrei Chenchik, iOS Developer
-<img align="left" width=88 src="./images/andrei.png" style="margin: 0 15px 0 0" >
-
-I believe that the only way to trully overcome a challenge is to build a deep understanding of the systems around it and then build your solution on top of that. That is why in my work I'm practicing holistic approach, system thinking and constantly grow my knowledge in multiple disciplines like Mobile, Backend, DevOps, etc.
+I believe that the only way to truly overcome a challenge is to build a deep understanding of the systems around it and then build your solution on top of that. That is why in my work I'm practicing holistic approach, system thinking and constantly grow my knowledge in multiple disciplines like Mobile, Backend, DevOps, etc.
 
 I'm always looking forward to work and learn from dynamic teams like rindus, tackle hard challenges with lots of data, complex and snappy UIs to deliver business value to customers.
 
@@ -11,14 +9,14 @@ I'm always looking forward to work and learn from dynamic teams like rindus, tac
 
 ##### **What I do, with examples**
 - Mobile using `Swift` with `UIKit` or `SwiftUI`: [Simply Receipts](https://github.com/AndreiChenchik/receipt)
-- Backend using `Python` with `FastAPI`, `GraphQL`, `Postgres` and `Reddis`: [enableOps api](https://github.com/enableops/api-service)
+- Backend using `Python` with `FastAPI`, `GraphQL`, `Postgres` and `Redis`: [enableOps api](https://github.com/enableops/api-service)
 - Web Frontend using `JS/TS` with `React`: [enableOps website](https://github.com/enableops/enableops.github.io/tree/main/src/components)
 - DevOps, CI&CD using `Pulumi`, `ArgoCD`, `GH Actions` and `Kubernetes`: [local GitOps & IaaC](https://github.com/AndreiChenchik/local-cluster)
 - Data, ML&DL using `Python` with `Pandas`, `Numpy`, `PyTorch`: [Simpsons DeepLearning](https://github.com/AndreiChenchik/dlschool/blob/main/14.1%20%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A1%D0%B8%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D0%BE%D0%B2/simpsons_resnet50.ipynb)
 
 ##### **Latest project: Simply Receipts ([AppStore](https://apps.apple.com/app/simply-receipts-tracker/id1586132989), [GitHub](https://github.com/AndreiChenchik/receipt), [Blog](https://chenchik.me/simply-receipts))**
 
-I build this project from the scratch in attempt to solve bill keeping problem that I have. It's 100% built using `SwiftUI`, using `CoreData` for data persistence with `CloudKit` for crossdevice synchronization. One of the most interesting challenge was to use `concurrency` for scanning in background while still be able to save data with `CoreData`. And I have to comeup with `algorithm` to parse block of texts into list of cart items.
+I built this project from scratch in an attempt to solve a bill keeping problem that I have. It's 100% built using `SwiftUI`, using `CoreData` for data persistence with `CloudKit` for cross-device synchronization. One of the most interesting challenges was to use `concurrency` for scanning in the background while still being able to save data with `CoreData`. And I had to come up with an `algorithm` to parse a block of text into a list of cart items.
 
 ##### **Experience and achievements**
 * `Apr 2021 - Present` iOS Software Engineer at [Simply Receipts](https://chenchik.me/simply-receipts): I've built the whole product from scratch and launched it to the AppStore to get first customers.

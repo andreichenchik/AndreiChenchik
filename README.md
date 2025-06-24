@@ -5,7 +5,7 @@ iOS  Developer with 4 years experience + 7 years as product lead in mobile pr
 As a generalist, I believe every solution involves trade-offs, and a broad perspective is essential for evaluating options and finding the best approach. 
 
 - Publications: [Blog](https://chenchik.me), [Bluesky](https://bsky.app/profile/chenchik.me)<sup>450</sup>, [Telegram (in Russian)](https://t.me/cyberbodega)<sup>37</sup>, [YouTube](https://www.youtube.com/@andreichenchik)<sup>13</sup>
-- Menties: [OlgaChusheva](https://github.com/OlgaChusheva)<sup>iOS</sup>, [septenmale](https://github.com/septenmale)<sup>iOS</sup>
+- Mentees: [OlgaChusheva](https://github.com/OlgaChusheva)<sup>iOS</sup>, [septenmale](https://github.com/septenmale)<sup>iOS</sup>
 
 ### Projects
 - [ROBE](https://robe.mobi) ([repo](https://github.com/AndreiChenchik/ROBE)): AI-powered wardrobe management app.
