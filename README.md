@@ -2,6 +2,12 @@
 
 iOS  Developer with 4 years experience + 7 years as product lead in mobile products. [CV.pdf](https://github.com/andreichenchik/andreichenchik/raw/main/cv/andreichenchik-CV.pdf), [CV.md](https://github.com/andreichenchik/andreichenchik/blob/main/cv/andreichenchik-CV.md).
 
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-FF6B6B?style=flat-square&logo=protocol&logoColor=white)
+
 As a generalist, I believe every solution involves trade-offs, and a broad perspective is essential for evaluating options and finding the best approach. 
 
 - Publications: [Blog](https://chenchik.me), [Bluesky](https://bsky.app/profile/chenchik.me)<sup>450</sup>, [Telegram (in Russian)](https://t.me/cyberbodega)<sup>37</sup>, [YouTube](https://www.youtube.com/@andreichenchik)<sup>13</sup>
